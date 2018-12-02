@@ -2,6 +2,7 @@ class A
 {
 	public void a1()
 	{
-		System.out.println("hi");
+		System.out.println("Welcome");
 	}
+	int x = 10;
 }.
